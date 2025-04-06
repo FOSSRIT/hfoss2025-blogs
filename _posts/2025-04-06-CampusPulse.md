@@ -19,3 +19,5 @@ I wanted to contribute to a RIT student project as a way of supporting the RIT F
 ## Getting involved
 
 The experience of getting involved was super seamless. I joined the discord group and the team was warm and welcoming. They immediately connected me to all the needed documentation and helped me find tasks to do that were content oriented.
+
+![Getting Involved](/hfoss2025-blogs/assets/images/mcewen/Issue.png)
