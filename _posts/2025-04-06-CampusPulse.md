@@ -20,8 +20,10 @@ I wanted to contribute to a RIT student project as a way of supporting the RIT F
 
 The experience of getting involved was super seamless. I joined the discord group and the team was warm and welcoming. They immediately connected me to all the needed documentation and helped me find tasks to do that were content oriented.
 
-![Getting Involved](/hfoss2025-blogs/assets/images/Airship46n/Welcome Screenshot.png)
+![Being Welcomed to the Community](/hfoss2025-blogs/assets/images/Airship46n/Welcome_Screenshot.png)
 
 ## The Contribution
 
 The issue I addressed was a need for an educational page explaining how to submit an effective ticket to the RIT service desk related to accessibility concerns. While the process is pretty intuitive, the page I created educates specifics to include to better assist the RIT Facilities Management Services when fixing the issue. I think I put a fair amount of effort into the contribution, but I could improve by making the document more aesthetically pleasing and not just relying on default google docs formatting. The document I made was accepted, and for my next contribution I will be pushing it onto the website.
+
+![Access control device not accepting my ID card](/hfoss2025-blogs/assets/images/Airship46n/Document_Title_Page.png)
