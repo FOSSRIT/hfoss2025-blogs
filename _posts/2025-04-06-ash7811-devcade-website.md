@@ -1,3 +1,18 @@
+---
+layout: post
+# If your post title is longer or more complicated
+# than can be represented in the filename, uncomment the following line
+# and specify a custom title
+# title:  "Sample Blog Post"
+
+categories: 
+- Contribution
+
+# Enter your name below
+author: Andrew H
+---
+
+
 # Introduction
 My contribution is towards a react rewrite of the [devcade website](https://github.com/ComputerScienceHouse/devcade-website/) for Computer Science House. Having been a CSH upperclassman for over a year, I wanted to contribute in some form to the long-term projects the organization hosted. Of these is Devcade, the arcade machine featuring various games created by CSH members. Their current website is written in Flask, and [a branch](https://github.com/ComputerScienceHouse/devcade-website/tree/react-rewrite) existed for rewriting the website in React in response to [an open issue](https://github.com/ComputerScienceHouse/devcade-website/issues/67). This endeavor had been dormant for some time, so I decided to revive it, even if this isn't the best thing to do as shown by the CommArch assignments. This undertaking goes beyond simply fulfilling a contribution, and acts as a longer project I can revisit and recruit others to join.
 
