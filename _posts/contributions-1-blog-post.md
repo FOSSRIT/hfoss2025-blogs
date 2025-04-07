@@ -15,7 +15,7 @@ author: Vaibhavy Darshan
 
 ## Choosing a Community
 
-Choosing a community was the hardest part. I did not know enough about the open source ecosystem to confidently choose where to contribute. It felt daunting—more like walking into the unknown—so I focused on documentation as a starting point.
+Choosing a community was the hardest part. I did not know enough about the open source ecosystem to confidently choose where to contribute. It felt daunting—more like walking into the unknown—so I focused on documentation as a starting point. Hence, most of the communities that I prefered were first good-first-issue or required simple fixes.
 
 ## Communities I Considered
 
