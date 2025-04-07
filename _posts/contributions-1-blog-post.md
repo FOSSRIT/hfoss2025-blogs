@@ -36,9 +36,9 @@ Choosing a community was the hardest part. I did not know enough about the open 
 
 ## What Did I Pick?
 
-I ultimately decided to contribute to the [first-contributions](https://github.com/firstcontributions/first-contributions) repository on GitHub, which is aimed at teaching beginners how to make their first contributions.
+I ultimately decided to contribute to the **[first-contributions](https://github.com/firstcontributions/first-contributions)** repository on GitHub, which is aimed at teaching beginners how to make their first contributions.
 
-I found this repository through class resources. There was a bug regarding confusing instructions, which made for an easy fix and gave me the opportunity to learn how to send my first Pull Request (PR).
+I found this repository through class resources. There was a bug regarding confusing instructions, which made for an easy fix and gave me the opportunity to learn how to send my first Pull Request (PR). So, I needed to edit the [ReadMe](https://github.com/firstcontributions/first-contributions/blob/main/README.md).
 
 ## How Did My Comm Arch Experience Help?
 
