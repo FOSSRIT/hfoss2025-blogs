@@ -42,7 +42,7 @@ I found this repository through class resources. There was a bug regarding confu
 
 ## How Did My Comm Arch Experience Help?
 
-Honestly, my communication architecture experience wasn’t directly helpful in picking this repository. The ones we discussed in class required deeper familiarity with the software or the codebase. I ended up asking the TA for help and looking through class resources for support.
+Honestly, my Comm Arch experience wasn’t directly helpful in picking this repository. The ones we discussed in class required deeper familiarity with the software or the codebase. I ended up asking the TA for help and looking through class resources for support.
 
 ## Contribution.md?
 
@@ -52,7 +52,8 @@ The `CONTRIBUTING.md` file in the first-contributions repository made the proces
 
 There were conflicting instructions between GitHub Desktop and the `README.md`. GitHub Desktop told users to place their names at the end of the list, so I updated the `README.md` to match that instruction. I found that through an issue mentioned [here](https://github.com/firstcontributions/first-contributions/issues/96053).
 
-![Issue]()
+![Issue](https://github.com/vaibhavyxx/hfoss2025-blogs/blob/main/assets/images/contributions-1/first-contribution-issue.png?raw=true)
+Feel free to click [here](https://github.com/firstcontributions/first-contributions/pull/96227) to take a look at my PR.
 ![Screenshot of my Pull Request](https://github.com/vaibhavyxx/hfoss2025-blogs/blob/main/assets/images/contributions-1/first-contributions.png?raw=true)
 
 ## My Failed Contribution
