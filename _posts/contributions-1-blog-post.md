@@ -14,19 +14,22 @@ author: Vaibhavy Darshan
 # My Open Source Contribution Experience
 
 ## Choosing a Community
-
 Choosing a community was the hardest part. I did not know enough about the open source ecosystem to confidently choose where to contribute. It felt daunting—more like walking into the unknown—so I focused on documentation as a starting point. Hence, most of the communities that I prefered were first good-first-issue or required simple fixes.
 
 ## Communities I Considered
 
-- **Arduino Docs**  
+- **[Arduino Docs](https://github.com/arduino/docs-content)**  
   I use Arduino frequently enough to understand how it works. However, I wasn’t able to locate the specific page with the bug. Additionally, it was written in Markdown, but not in a format I was comfortable working with.
+  ![typo discussion](https://github.com/vaibhavyxx/hfoss2025-blogs/blob/main/assets/images/contributions-1/arduino-docs-content.png?raw=true)
+  I earlier commented on it but I ended up deleting as I could not figure it out.
 
-- **Twine**  
+- **[Twine](https://github.com/klembot/twinejs)**  
   The bug seemed simple enough to fix, but it was an old issue. I couldn’t find it and tried contacting others to check if it was still relevant or accessible.
+  ![favicon issue]()
 
-- **FreeSoundOrg**  
+- **[FreeSoundOrg](https://github.com/MTG/freesound)**  
   The issue was really interesting, but also quite complex for a first contribution. I might revisit this in the future.
+  ![dynamic css suggestion](https://github.com/vaibhavyxx/hfoss2025-blogs/blob/main/assets/images/contributions-1/freesound.png?raw=true)
 
 - **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization/issues)**  
   The repository had a lot of outdated links, which seemed like a simple fix. However, the repository has been inactive for a few years, so I was hesitant to work on it.
@@ -47,7 +50,10 @@ The `CONTRIBUTING.md` file in the first-contributions repository made the proces
 
 ## Issue I Fixed
 
-There were conflicting instructions between GitHub Desktop and the `README.md`. GitHub Desktop told users to place their names at the end of the list, so I updated the `README.md` to match that instruction.
+There were conflicting instructions between GitHub Desktop and the `README.md`. GitHub Desktop told users to place their names at the end of the list, so I updated the `README.md` to match that instruction. I found that through an issue mentioned [here](https://github.com/firstcontributions/first-contributions/issues/96053).
+
+![Issue]()
+![Screenshot of my Pull Request](https://github.com/vaibhavyxx/hfoss2025-blogs/blob/main/assets/images/contributions-1/first-contributions.png?raw=true)
 
 ## My Failed Contribution
 
