@@ -26,7 +26,7 @@ I wanted my first contribution to be something impactful yet manageable. Designi
 To address the issue, I created a set of policy folder icons that fit seamlessly within the theme’s existing design language. These icons were designed with clarity and usability in mind, ensuring they would look great across various themes and screen resolutions.
 
 # Steps I Took
-Research:
+### Research:
 
 I began by studying the existing folder icons in the theme to ensure consistency. This included analyzing their dimensions, color schemes, and design patterns.
 
