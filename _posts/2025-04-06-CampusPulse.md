@@ -26,4 +26,4 @@ The experience of getting involved was super seamless. I joined the discord grou
 
 The issue I addressed was a need for an educational page explaining how to submit an effective ticket to the RIT service desk related to accessibility concerns. While the process is pretty intuitive, the page I created educates specifics to include to better assist the RIT Facilities Management Services when fixing the issue. I think I put a fair amount of effort into the contribution, but I could improve by making the document more aesthetically pleasing and not just relying on default google docs formatting. The document I made was accepted, and for my next contribution I will be pushing it onto the website.
 
-![Access control device not accepting my ID card](/hfoss2025-blogs/assets/images/Airship46n/Document_Title_Page.png)
+![Access control device not accepting my ID card](/hfoss2025-blogs/assets/images/Airship46n/Document Title Page.png)
