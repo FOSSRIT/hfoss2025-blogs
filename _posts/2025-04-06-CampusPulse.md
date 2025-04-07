@@ -20,7 +20,7 @@ I wanted to contribute to a RIT student project as a way of supporting the RIT F
 
 The experience of getting involved was super seamless. I joined the discord group and the team was warm and welcoming. They immediately connected me to all the needed documentation and helped me find tasks to do that were content oriented.
 
-![Being Welcomed to the Community](/hfoss2025-blogs/assets/images/Airship46n/Welcome_Screenshot.png)
+![Being Welcomed to the Community](/hfoss2025-blogs/assets/images/Airship46n/Welcome Screenshot.png)
 
 ## The Contribution
 
