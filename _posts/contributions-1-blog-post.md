@@ -11,67 +11,56 @@ categories:
 # Enter your name below
 author: Vaibhavy Darshan
 ---
+# My Open Source Contribution Experience
 
-For my contribution, I decided to create this website and post this sample blog post. I decided to do this because I wanted to help provide a blogging platform for SJ to allow the students of HFOSS to have a place to submit their blog posts for the last half of the semester.
+## Choosing a Community
 
-This blog post can be used in several ways:
-- Reading it should provide a tutorial explaining some of the basics of howto use this blog for HFOSS students who will be adding posts to it 
-- Looking at its source code can provide a template that can be reused to help kickstart the writing of new blog posts, or to demonstrate some examples of how to use markdown
-<!-- - Demonstrate (to some extent) what a well-written, detailed blog post looks like. (That said this post will probably be longer than is expected for the actual HFOSS assignments because it may contain a lot of tutorial content)  -->
-- As documentation for any future readers who are interested in the rationale behind the existence of this site (such as Future HFOSS students, TA's, or FOSSRIT org admins)
+Choosing a community was the hardest part. I did not know enough about the open source ecosystem to confidently choose where to contribute. It felt daunting—more like walking into the unknown—so I focused on documentation as a starting point.
 
-## What is this site?
-This is a site that is built using Jekyll. A tool that allows you to build websites that is natively supported by [GitHub pages](https://docs.github.com/en/pages) - a free website hosting service provided by GitHub. It is quite commonly used by developers to create their own personal or portfolio websites.
+## Communities I Considered
 
-## Why not something else, like WordPress?
-HFOSS is a class designed to help teach some of the basics behind open source. By using git and GitHub to submit the blog posts, there are more opportunities to practice using the tools that are used by real-world projects. Additionally, the WordPress sites from previous classes are no longer around and are hard to point to as examples that are particularly positive or negative
+- **Arduino Docs**  
+  I use Arduino frequently enough to understand how it works. However, I wasn’t able to locate the specific page with the bug. Additionally, it was written in Markdown, but not in a format I was comfortable working with.
 
-## How do I use it?
-This repository may look like a mess of many, many files, but realistically the only files you will likelyc are about as an HFOSS student are in the `_posts` folder. This is where you will upload your blog posts. The basic process goes something like this:
+- **Twine**  
+  The bug seemed simple enough to fix, but it was an old issue. I couldn’t find it and tried contacting others to check if it was still relevant or accessible.
 
-1. Log into your GitHub account
-2. Create a fork of this repository and clone it to your computer if that's how you prefer to work (feel free to try a few different ways)
-3. Create a new branch on your fork starting from the `main` branch
-4. Find the `_posts` folder and create a copy of this sample post, giving it a new, dated filename (Jekyll requires blog post files to be named according to the following format `YEAR-MONTH-DAY-title`) and changing the contents accordingly (ideally making commits and pushing to your new branch as you go)
-   - [Optional] If you wish, you can also  
-5. [Optional] You can also configure github pages (through the settings tab of your forked repository) to host a website site based on your new branch, so you can preview your changes and make sure your post looks the way you want. There are also ways to assemble the website on your computer if you prefer a more hands-on process (Ask in class or come to office hours if you want to learn more about this!) 
-6. When you are ready to submit, create a "pull request" back to the original repository. This will take the contents of your new branch and submit it as a proposed change to the main class website. Once approved, your blog post will be added to the main class web page.
-7. [Recommended] Whenever the main class webpage updates, it may be helpful to also update the main branch of your fork (github provides a handy "sync" button) so that you can stay up to date
+- **FreeSoundOrg**  
+  The issue was really interesting, but also quite complex for a first contribution. I might revisit this in the future.
 
+- **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization/issues)**  
+  The repository had a lot of outdated links, which seemed like a simple fix. However, the repository has been inactive for a few years, so I was hesitant to work on it.
 
+## What Did I Pick?
 
-## More Markdown features
-In addition to the formatting used so far in this document, Markdown offers several other things that may be useful to blog posts. 
+I ultimately decided to contribute to the [first-contributions](https://github.com/firstcontributions/first-contributions) repository on GitHub, which is aimed at teaching beginners how to make their first contributions.
 
-### Images
+I found this repository through class resources. There was a bug regarding confusing instructions, which made for an easy fix and gave me the opportunity to learn how to send my first Pull Request (PR).
 
-![a meme depicting a cartoon person screaming "OPEN SOURCE"](https://ankitrokdeonsns.github.io/assets/img/open_source.jpeg)
+## How Did My Comm Arch Experience Help?
 
+Honestly, my communication architecture experience wasn’t directly helpful in picking this repository. The ones we discussed in class required deeper familiarity with the software or the codebase. I ended up asking the TA for help and looking through class resources for support.
 
-[Here](https://www.markdownguide.org/basic-syntax/#images-1) is a link to more documentation on markdown images.
+## Contribution.md?
 
-### Tables
+The `CONTRIBUTING.md` file in the first-contributions repository made the process much easier. It clearly explained how to make changes and submit a PR.
 
-| Item         | Price    | # In stock |
-| ------------ | -------- | ---------- |
-| Juicy Apples | 1.99     | *7*        |
-| Bananas      | **1.89** | 5234       |
+## Issue I Fixed
 
-[Here](https://www.markdownguide.org/extended-syntax/#tables) is a link to more documentation on markdown tables.
+There were conflicting instructions between GitHub Desktop and the `README.md`. GitHub Desktop told users to place their names at the end of the list, so I updated the `README.md` to match that instruction.
 
-## More Jekyll Features
-Jekyll can also provide some formatting and other useful features. Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. Here are some notable examples:
+## My Failed Contribution
 
+I attempted to contribute to the FreeSoundOrg website by removing duplicate CSS imports to improve loading time. However, even though the site used JavaScript (which I am somewhat familiar with), I didn’t feel confident enough with the overall codebase to proceed. I did, however, look at tutorials to see if I could potentially fix it.
 
-### Code snippets
+## What Blocked Me?
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+- **FreeSound.Org** – My limited technical knowledge.
+- **First-Contributions** – I initially didn’t know how to refer my PR to the issue another user pointed out, but after some online research, I figured it out.
+
+## Was I Successful?
+
+Technically, my PR hasn’t been accepted or declined yet, so I can’t say for sure. But personally, yes—I was successful. At first, I felt I wouldn’t be able to do this assignment due to lack of knowledge and fear of contributing to an unfamiliar community. But I overcame that fear and made sure my commits and PR were clear and direct.
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+
