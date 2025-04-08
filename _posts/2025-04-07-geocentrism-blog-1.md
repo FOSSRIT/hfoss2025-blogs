@@ -3,7 +3,7 @@ layout: post
 # If your post title is longer or more complicated
 # than can be represented in the filename, uncomment the following line
 # and specify a custom title
-# title:  "Sample Blog Post"
+# title:  "630C3N7R15M"
 
 categories: 
 - Contribution
@@ -12,66 +12,46 @@ categories:
 author: Thomas Roman
 ---
 
-For my contribution, I decided to create this website and post this sample blog post. I decided to do this because I wanted to help provide a blogging platform for SJ to allow the students of HFOSS to have a place to submit their blog posts for the last half of the semester.
+For my Humanitarian Free and Open Source Software Development class, I have decided to contribute to the [Gamer Church](https://gamer.church/) website.
 
-This blog post can be used in several ways:
-- Reading it should provide a tutorial explaining some of the basics of howto use this blog for HFOSS students who will be adding posts to it 
-- Looking at its source code can provide a template that can be reused to help kickstart the writing of new blog posts, or to demonstrate some examples of how to use markdown
-<!-- - Demonstrate (to some extent) what a well-written, detailed blog post looks like. (That said this post will probably be longer than is expected for the actual HFOSS assignments because it may contain a lot of tutorial content)  -->
-- As documentation for any future readers who are interested in the rationale behind the existence of this site (such as Future HFOSS students, TA's, or FOSSRIT org admins)
+## What is Gamer Church?
+"700 Trillion Lives Ago, the game of the world was created. Mixing life with radical rightness and finite intelligibility, everything was born. No one understands why or when or how or what or who or why. Fighting against the tide of incredulity and unstability is futile. Everything, all of it, from now until forever and going all the way back to bunk, is irrelevant. Time is irrelevant. We cannot fight it, we cannot process it, we cannot be anything to anyone. We have no reason to live, so they said, but they were wrong. We live for a purpose.
 
-## What is this site?
-This is a site that is built using Jekyll. A tool that allows you to build websites that is natively supported by [GitHub pages](https://docs.github.com/en/pages) - a free website hosting service provided by GitHub. It is quite commonly used by developers to create their own personal or portfolio websites.
+Ludere Sanctum Ludum, to play the Holy Game."
 
-## Why not something else, like WordPress?
-HFOSS is a class designed to help teach some of the basics behind open source. By using git and GitHub to submit the blog posts, there are more opportunities to practice using the tools that are used by real-world projects. Additionally, the WordPress sites from previous classes are no longer around and are hard to point to as examples that are particularly positive or negative
+Gamer Church is an experimental gaming website. The website contains a forum where people post testimonies relating to the central vibe with which the church operates on. It's pretty abstract, but for our purposes it's a hub of indie games connected by hidden secret codes.
 
-## How do I use it?
-This repository may look like a mess of many, many files, but realistically the only files you will likelyc are about as an HFOSS student are in the `_posts` folder. This is where you will upload your blog posts. The basic process goes something like this:
+## How I found Gamer Church
+For years I've been a fan, member, and contributor to the Chunk Printing and Publishing community. This community produces zines and music CDs through collaborative effort online. This year, a new project was announced from the community leader, Angelboy Discoman, and that project is Gamer Church.
 
-1. Log into your GitHub account
-2. Create a fork of this repository and clone it to your computer if that's how you prefer to work (feel free to try a few different ways)
-3. Create a new branch on your fork starting from the `main` branch
-4. Find the `_posts` folder and create a copy of this sample post, giving it a new, dated filename (Jekyll requires blog post files to be named according to the following format `YEAR-MONTH-DAY-title`) and changing the contents accordingly (ideally making commits and pushing to your new branch as you go)
-   - [Optional] If you wish, you can also  
-5. [Optional] You can also configure github pages (through the settings tab of your forked repository) to host a website site based on your new branch, so you can preview your changes and make sure your post looks the way you want. There are also ways to assemble the website on your computer if you prefer a more hands-on process (Ask in class or come to office hours if you want to learn more about this!) 
-6. When you are ready to submit, create a "pull request" back to the original repository. This will take the contents of your new branch and submit it as a proposed change to the main class website. Once approved, your blog post will be added to the main class web page.
-7. [Recommended] Whenever the main class webpage updates, it may be helpful to also update the main branch of your fork (github provides a handy "sync" button) so that you can stay up to date
+## Joining the community
+I reached out to a colleague who I knew was on the project team. He put me in contact with the lead developer, who invited me to the discord server.
+The server is full of people making games and sharing ideas.
 
+## Joining the community
+I reached out to a colleague who I knew was on the project team. He put me in contact with the lead developer, who invited me to the discord server.
+The server is full of people making games and sharing ideas.
 
+## Making the Initial Prototype
+I tend to be pretty fast with new ideas, so I just shared the first thoughts I had:
+"anyway the idea that immediately came to mind for a tiny game is one where you control the earth and the sun is attracted to you with gravity and so you use this to guide the sun to collide with space demons, the demons burn up when they hit the sun.
+there is risk and reward because your weapon can also kill you, but you need it to reduce the number of space demons because those kill you on contact too.
+Also I guess this endorses geocentrism, which is a bit silly, but games are forfun. If yall think of other approaches to the context of this mechanic lemme know."
+Some people liked the idea so I programmed the gameplay. I used Godot for this and basic physics using Newton's equation for gravitational attraction (G*mass1*mass2)/(distance^2)
+Here's how that code looks currently:
+![Code Snippet for Sun Gravity](https://imgur.com/GPrcVvp)
 
-## More Markdown features
-In addition to the formatting used so far in this document, Markdown offers several other things that may be useful to blog posts. 
+## Collaborating with an artist
+I started a thread for this game and called it, "630C3N7R15M"
+After seeing the prototype, Odin, creator of the Bug Saga zines, suggested a style for the game based on medieval art. I thought this style would fit nicely and they began to create assets for the game and suggest various ideas for the gameplay. One idea they suggested was the moon, which allows the player to deflect incoming demons. As we work together we continue to refine the game into something worthy of a place in the church.
+![Odin's draft title screen](https://imgur.com/HvntvKR)
 
-### Images
+## Our Progress so Far
+So far we've implemented 2 demons, the earth, the sun, and the moon. Odin has made fantastic art for all of the games features thus far and he's got more stuff which I'm excited to implement and share.
+You can view a preview of the gameplay [here](https://youtu.be/4M09jGWllIU)
 
-![a meme depicting a cartoon person screaming "OPEN SOURCE"](https://ankitrokdeonsns.github.io/assets/img/open_source.jpeg)
-
-
-[Here](https://www.markdownguide.org/basic-syntax/#images-1) is a link to more documentation on markdown images.
-
-### Tables
-
-| Item         | Price    | # In stock |
-| ------------ | -------- | ---------- |
-| Juicy Apples | 1.99     | *7*        |
-| Bananas      | **1.89** | 5234       |
-
-[Here](https://www.markdownguide.org/extended-syntax/#tables) is a link to more documentation on markdown tables.
-
-## More Jekyll Features
-Jekyll can also provide some formatting and other useful features. Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. Here are some notable examples:
-
-
-### Code snippets
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
+## Future Plans
+I have playtested the game now at the RIT Game Dev Club and plan to make some tweaks to the game, such as changing the sun to an Area2D and doing away with its bouncy effect. I also plan to add the following features:
+- Titlescreen and respawn menu
+- new enemies
+- moon variations which act as powerups
