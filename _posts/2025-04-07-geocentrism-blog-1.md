@@ -39,12 +39,12 @@ there is risk and reward because your weapon can also kill you, but you need it 
 Also I guess this endorses geocentrism, which is a bit silly, but games are forfun. If yall think of other approaches to the context of this mechanic lemme know."
 Some people liked the idea so I programmed the gameplay. I used Godot for this and basic physics using Newton's equation for gravitational attraction (G*mass1*mass2)/(distance^2)
 Here's how that code looks currently:
-![Code Snippet for Sun Gravity](https://imgur.com/GPrcVvp)
+![Code Snippet for Sun Gravity](https://i.imgur.com/GPrcVvp.png)
 
 ## Collaborating with an artist
 I started a thread for this game and called it, "630C3N7R15M"
 After seeing the prototype, Odin, creator of the Bug Saga zines, suggested a style for the game based on medieval art. I thought this style would fit nicely and they began to create assets for the game and suggest various ideas for the gameplay. One idea they suggested was the moon, which allows the player to deflect incoming demons. As we work together we continue to refine the game into something worthy of a place in the church.
-![Odin's draft title screen](https://imgur.com/HvntvKR)
+![Odin's draft title screen](https://i.imgur.com/HvntvKR.png)
 
 ## Our Progress so Far
 So far we've implemented 2 demons, the earth, the sun, and the moon. Odin has made fantastic art for all of the games features thus far and he's got more stuff which I'm excited to implement and share.
