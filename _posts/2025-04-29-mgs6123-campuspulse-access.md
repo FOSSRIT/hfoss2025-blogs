@@ -3,7 +3,7 @@ layout: post
 # If your post title is longer or more complicated
 # than can be represented in the filename, uncomment the following line
 # and specify a custom title
-# title:  "Sample Blog Post"
+# title:  "CampusPulse Access"
 
 categories: 
 - Contribution
@@ -24,11 +24,12 @@ Well, my original plan was to work on an open-source CSH project (Devcade). Spec
 I came into the project knowing HTML and CSS. Most of the content was already written in a Google Doc, so it mostly just needed minor edits to fit it onto the page. Something I didn't know before working on this was Bootstrap. While I'd heard of it before, I didn't know how to use it, much less what it actually was. After some work and two group meetings, the page was completed. 
 
 ## Pull requests
-The first pull request was just a simple edit to remove a reference to the TunnelVision murals that 
+The first pull request was just a simple edit to remove a reference to the TunnelVision murals: https://github.com/CampusPulse/access-directory/pull/4
+The second pull request (which is what this blog is primarily about) is here: https://github.com/CampusPulse/access-directory/pull/6
+The last pull request was made a few weeks later, which just added some links to the page: https://github.com/CampusPulse/access-directory/pull/7
 
 ### Images
 
 ![a meme depicting a cartoon person screaming "OPEN SOURCE"](https://ankitrokdeonsns.github.io/assets/img/open_source.jpeg)
-
 
 
