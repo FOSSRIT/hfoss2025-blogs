@@ -28,8 +28,4 @@ The first pull request was just a simple edit to remove a reference to the Tunne
 The second pull request (which is what this blog is primarily about) is here: https://github.com/CampusPulse/access-directory/pull/6
 The last pull request was made a few weeks later, which just added some links to the page: https://github.com/CampusPulse/access-directory/pull/7
 
-### Images
-
-![a meme depicting a cartoon person screaming "OPEN SOURCE"](https://ankitrokdeonsns.github.io/assets/img/open_source.jpeg)
-
 
